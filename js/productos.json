@@ -1,0 +1,121 @@
+[
+    {
+        "id": "taza-01",
+        "titulo": "taza-Bulbasor",
+        "imagen": "./img/poke.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "taza-02",
+        "titulo": "taza-Charisard",
+        "imagen": "./img/char.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "taza-03",
+        "titulo": "taza-Picachu",
+        "imagen": "./img/picachu.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "taza-04",
+        "titulo": "taza-Vamo-a-calmarno",
+        "imagen": "./img/vamo.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 2000
+    },
+    
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Dedpool",
+        "imagen": "./img/remeradeppol.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Marvel",
+        "imagen": "./img/marvelremera.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Batman",
+        "imagen": "./img/batmanr.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Doom",
+        "imagen": "./img/doom.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Flah",
+        "imagen": "./img/flash.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Sega",
+        "imagen": "./img/sega.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta BTS",
+        "imagen": "./img/btsn.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Hulk",
+        "imagen": "./img/hulk.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "chucheria01",
+        "titulo": "Comic Superman Doomsay",
+        "imagen": "./img/dumsay.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "chucheria02",
+        "titulo": "Comic Batman",
+        "imagen": "./img/comicbatman.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "chucheria03",
+        "titulo": "Comic Liga de la Justicia",
+        "imagen": "./img/liga.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "chucheria04",
+        "titulo": "Comic Linterna Verde",
+        "imagen": "./img/linterna.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "chucheria05",
+        "titulo": "Comic Superman",
+        "imagen": "./img/super.jpg",
+        "precio": 1000
+    }
+]
